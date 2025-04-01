@@ -14,5 +14,5 @@ The Cerbung application comprises several pages, namely Sign Up, Sign In, Home, 
     <a href="https://github.com/user-attachments/assets/fc3e1f82-0e5d-467c-b401-ee6f699d18d6"><img src="https://github.com/user-attachments/assets/fc3e1f82-0e5d-467c-b401-ee6f699d18d6" width=17% height=17% alt="Home page"></a>
     <p align="center">Home page</p>
 </section>
-4. iedn
+4. The Cerbung Details page unveils the evolving story. Storytellers can peruse paragraphs crafted by fellow contributors. If a Cerbung is set to public, storytellers can seamlessly add new paragraphs to the existing narrative. However, for restricted Cerbungs, storytellers have to request access to contribute. Additionally, there's a "Follow" button that allows storytellers to add the Cerbung to their list of favorites (with a dedicated page to access their followed Cerbungs), ensuring they never miss an update of the captivating storyline.
 
