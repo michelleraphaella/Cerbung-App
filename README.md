@@ -10,5 +10,9 @@ The Cerbung application comprises several pages, namely Sign Up, Sign In, Home, 
     <p align="center">Sign In page</p>
 </section>
 3. The Home page showcases Cerbungs with the most likes. Each Cerbung features a picture, a brief description, number of likes, and number of paragraphs. The "Read" button allows storytellers to access more details about the Cerbung and dive into its storyline.
-
+<section align="center">
+    <a href="https://github.com/user-attachments/assets/fc3e1f82-0e5d-467c-b401-ee6f699d18d6"><img src="https://github.com/user-attachments/assets/fc3e1f82-0e5d-467c-b401-ee6f699d18d6" width=21% height=21% alt="Home page"></a>
+    <p align="center">Home page</p>
+</section>
 4. iedn
+
