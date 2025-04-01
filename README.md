@@ -4,6 +4,11 @@ The Cerbung application comprises several pages, namely Sign Up, Sign In, Home, 
     <a href="https://github.com/user-attachments/assets/5b1d86cd-eb63-4037-bd72-89cc101dcc58"><img src="https://github.com/user-attachments/assets/5b1d86cd-eb63-4037-bd72-89cc101dcc58" width=19% height=19% alt="Sign Up page"></a>
     <p align="center">Sign Up page</p>
 </section>
-2. The Home page showcases Cerbungs with the most likes. Each Cerbung features a picture, a brief description, number of likes, and number of paragraphs. The "Read" button allows storytellers to access more details about the Cerbung and dive into its storyline.
+2. The Sign In page consists of two blank fields for username and password. 
+<section align="center">
+    <a href="https://github.com/user-attachments/assets/157ba390-61e9-40a5-8683-028cfd4c9720"><img src="https://github.com/user-attachments/assets/157ba390-61e9-40a5-8683-028cfd4c9720" width=19% height=19% alt="Sign In page"></a>
+    <p align="center">Sign In page</p>
+</section>
+3. The Home page showcases Cerbungs with the most likes. Each Cerbung features a picture, a brief description, number of likes, and number of paragraphs. The "Read" button allows storytellers to access more details about the Cerbung and dive into its storyline.
 
 4. iedn
