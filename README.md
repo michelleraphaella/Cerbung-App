@@ -1,7 +1,7 @@
 The Cerbung application comprises several pages, namely Sign Up, Sign In, Home, Cerbung Details, Create Cerbung, Users, Following, and Preferences.
 1. The Sign Up page includes several blank fields for entering a username, profile picture URL, password, and password confirmation. All fields must be filled in and cannot be left blank. Additonally, the password and password confirmation must match.
 <section align="center">
-    <a href="https://github.com/user-attachments/assets/5b1d86cd-eb63-4037-bd72-89cc101dcc58"><img src="https://github.com/user-attachments/assets/5b1d86cd-eb63-4037-bd72-89cc101dcc58" width=19% height=19% alt="Sign Up page"></a>
+    <a href="https://github.com/user-attachments/assets/5b1d86cd-eb63-4037-bd72-89cc101dcc58"><img src="https://github.com/user-attachments/assets/5b1d86cd-eb63-4037-bd72-89cc101dcc58" width=15% height=15% alt="Sign Up page"></a>
     <p align="center">Sign Up page</p>
 </section>
 2. The Sign In page consists of two blank fields for username and password. 
